@@ -1,8 +1,9 @@
 ### Hi, I'm Milad 👋
 
 
-- 🔭 I’m currently working on WIMC
-- 🌱 I’m currently learning about Security
+- 🔭 I’m currently working on My application
+- 🌱 I’m currently learning AI
+- ⚡ Fun fact: Oak!
 
 <!--
 **MiladTehrany/MiladTehrany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
